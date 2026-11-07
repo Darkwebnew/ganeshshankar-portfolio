@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ganeshshankar-portfolio.gmarketingservices.in/sitemap.xml
